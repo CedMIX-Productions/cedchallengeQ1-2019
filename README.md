@@ -11,3 +11,13 @@ Find the two hidden easter egg and unlock the phassphase to reveal a special sec
 1. Find the two eggs hidden in the main menu by typing the corresponding code needed to execute.
  (Options 1 and 2 are not counted since they're the same message anyways.
 2. Have fun! If you're a filipino! you can read it or translate it. 
+
+# COMPATIBILITY (supported operating systems)
+Windows XP (service pack 2 or higher)
+Windows Vista
+Windows 7 (or Server 2008 R2)
+Windows 8.x (or Server 2012 [R.x])
+Windows 10 (or Server 2016 - [possibly] 2019]
+
+# Results day
+Results day: February 15,2019
