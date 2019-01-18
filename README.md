@@ -4,6 +4,9 @@ This is not just your any old find the Easter egg but also the easter egg that c
 # Concept of haygugma.exe
 The concept of this console program was to be used with your CRUSH to know he/she had an interest in you (see program properties).
 
+# Concept of hugotzzzzz.exe
+The concept of this console program was to be show of my favorite 150 hugot lines in one program.
+
 # Goals:
 * Find the two hidden easter egg and unlock the phassphase to reveal a special secret! (only for haygugma.exe)
 * Find a message inside the console program (only for hugotzzzzz.exe)
